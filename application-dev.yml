@@ -4,7 +4,7 @@ spring:
     url: jdbc:mysql://localhost:3306/pacloud-test?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&autoReconnect=true&allowMultiQueries=true&serverTimezone=Asia/Shanghai
     username: root
     password: 1234
-    driver-class-name: com.mysql.cj.jdbc.Driver111
+    driver-class-name: com.mysql.cj.jdbc.Driver222
 
     #使用hikariCp数据库连接池
     hikari:
